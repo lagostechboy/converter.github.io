@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "ποσό"
+   },
+   "appDesc": {
+      "message": "Μετατροπέας Νομισμάτων για το Google Chrome. Γρήγορη αλλαγή νομισμάτων!"
+   },
+   "appName": {
+      "message": "Μετατροπέας νομίσματος PRO"
+   },
+   "back": {
+      "message": "επιστρέψτε"
+   },
+   "btconvert": {
+      "message": "μετατρέπω"
+   },
+   "configuration": {
+      "message": "Επιλογές"
+   },
+   "dark": {
+      "message": "σκοτεινό"
+   },
+   "helpnote": {
+      "message": "Πατήστε + για να προσθέσετε νομισμάτων"
+   },
+   "light": {
+      "message": "λευκό"
+   },
+   "openextension": {
+      "message": "Ενεργοποίηση επέκτασης"
+   },
+   "selectcurrencies": {
+      "message": "Επιλέξτε νομίσματα"
+   },
+   "theme": {
+      "message": "Σχεδιασμός"
+   }
+}

@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Množství"
+   },
+   "appDesc": {
+      "message": "Konvertor měny pro Google Chrome. Fast Currency Converter!"
+   },
+   "appName": {
+      "message": "Převodník měn PRO"
+   },
+   "back": {
+      "message": "Zadní"
+   },
+   "btconvert": {
+      "message": "konvertovat"
+   },
+   "configuration": {
+      "message": "Možnosti"
+   },
+   "dark": {
+      "message": "Temný"
+   },
+   "helpnote": {
+      "message": "Stiskněte + pro přidání měn"
+   },
+   "light": {
+      "message": "Světlo"
+   },
+   "openextension": {
+      "message": "Aktivovat rozšíření"
+   },
+   "selectcurrencies": {
+      "message": "Vyberte měny"
+   },
+   "theme": {
+      "message": "Design"
+   }
+}

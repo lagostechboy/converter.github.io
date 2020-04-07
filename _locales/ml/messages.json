@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "തുക"
+   },
+   "appDesc": {
+      "message": "വേഗത്തിലും എളുപ്പത്തിലും ഉപയോഗിക്കാൻ Google Chrome- നായുള്ള കറൻസി കൺവെർട്ടർ."
+   },
+   "appName": {
+      "message": "നാണയ പരിവർത്തന"
+   },
+   "back": {
+      "message": "മടങ്ങുക"
+   },
+   "btconvert": {
+      "message": "മാറ്റുക"
+   },
+   "configuration": {
+      "message": "ഓപ്ഷനുകൾ"
+   },
+   "dark": {
+      "message": "കറുപ്പ്"
+   },
+   "helpnote": {
+      "message": "കറൻസികൾ ചേർക്കാൻ + അമർത്തുക"
+   },
+   "light": {
+      "message": "വെള്ള"
+   },
+   "openextension": {
+      "message": "സജീവമാക്കുക"
+   },
+   "selectcurrencies": {
+      "message": "കറൻസികൾ തിരഞ്ഞെടുക്കുക"
+   },
+   "theme": {
+      "message": "ഡിസൈൻ"
+   }
+}

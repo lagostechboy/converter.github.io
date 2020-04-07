@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Quantidade"
+   },
+   "appDesc": {
+      "message": "Conversor de moedas para o Google Chrome rápido e fácil de usar."
+   },
+   "appName": {
+      "message": "Conversor de Moedas PRO"
+   },
+   "back": {
+      "message": "Voltar"
+   },
+   "btconvert": {
+      "message": "converter"
+   },
+   "configuration": {
+      "message": "Opções"
+   },
+   "dark": {
+      "message": "Escuro"
+   },
+   "helpnote": {
+      "message": "Pressione + para adicionar moedas"
+   },
+   "light": {
+      "message": "Claro"
+   },
+   "openextension": {
+      "message": "Ativar a extensão"
+   },
+   "selectcurrencies": {
+      "message": "Selecione moedas"
+   },
+   "theme": {
+      "message": "Tema"
+   }
+}

@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Summa"
+   },
+   "appDesc": {
+      "message": "Google Chrome valuutavahetus. Fast Currency Converter!"
+   },
+   "appName": {
+      "message": "Valuuta Konverter PRO"
+   },
+   "back": {
+      "message": "Tagasi"
+   },
+   "btconvert": {
+      "message": "teisendada"
+   },
+   "configuration": {
+      "message": "Valikud"
+   },
+   "dark": {
+      "message": "Must"
+   },
+   "helpnote": {
+      "message": "Valuuta lisamiseks vajutage +"
+   },
+   "light": {
+      "message": "Valge"
+   },
+   "openextension": {
+      "message": "Aktiveeri laiendus"
+   },
+   "selectcurrencies": {
+      "message": "Valige valuutad"
+   },
+   "theme": {
+      "message": "Disain"
+   }
+}

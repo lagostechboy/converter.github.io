@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Määrä"
+   },
+   "appDesc": {
+      "message": "Valuuttalaskuri varten Google Chrome. Fast Currency Converter!"
+   },
+   "appName": {
+      "message": "Valuuttamuunnin PRO"
+   },
+   "back": {
+      "message": "Palata"
+   },
+   "btconvert": {
+      "message": "muuntaa"
+   },
+   "configuration": {
+      "message": "Asetukset"
+   },
+   "dark": {
+      "message": "Tumma"
+   },
+   "helpnote": {
+      "message": "Lisää valuuttoja painamalla +"
+   },
+   "light": {
+      "message": "Valo"
+   },
+   "openextension": {
+      "message": "Aktivoi laajennus"
+   },
+   "selectcurrencies": {
+      "message": "Valitse valuutat"
+   },
+   "theme": {
+      "message": "Teema"
+   }
+}

@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Số tiền"
+   },
+   "appDesc": {
+      "message": "Chuyển đổi tiền tệ cho Google Chrome nhanh chóng và dễ sử dụng."
+   },
+   "appName": {
+      "message": "Chuyển đổi Tiền Tệ PRO"
+   },
+   "back": {
+      "message": "Quay lại"
+   },
+   "btconvert": {
+      "message": "đổi"
+   },
+   "configuration": {
+      "message": "Tùy chọn"
+   },
+   "dark": {
+      "message": "Tối"
+   },
+   "helpnote": {
+      "message": "Nhấn + để thêm tiền tệ"
+   },
+   "light": {
+      "message": "Ánh sáng"
+   },
+   "openextension": {
+      "message": "Kích hoạt tiện ích"
+   },
+   "selectcurrencies": {
+      "message": "Chọn loại tiền"
+   },
+   "theme": {
+      "message": "Thiết kế"
+   }
+}

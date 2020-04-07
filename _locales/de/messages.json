@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Betrag"
+   },
+   "appDesc": {
+      "message": "Schneller Währungsrechner für Google Chrome."
+   },
+   "appName": {
+      "message": "Währungsrechner PRO"
+   },
+   "back": {
+      "message": "Zurück"
+   },
+   "btconvert": {
+      "message": "konvertieren"
+   },
+   "configuration": {
+      "message": "Optionen"
+   },
+   "dark": {
+      "message": "Dark"
+   },
+   "helpnote": {
+      "message": "Drücken Sie + um Münzen hinzuzufügen"
+   },
+   "light": {
+      "message": "Light"
+   },
+   "openextension": {
+      "message": "Erweiterung aktivieren"
+   },
+   "selectcurrencies": {
+      "message": "Währungen auswählen"
+   },
+   "theme": {
+      "message": "Theme"
+   }
+}

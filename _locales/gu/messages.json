@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "રકમ"
+   },
+   "appDesc": {
+      "message": "કરન્સી કન્વર્ટર for Google Chrome. ઝડપી અને સરળ"
+   },
+   "appName": {
+      "message": "કરન્સી પરિવર્તક Currency Converter"
+   },
+   "back": {
+      "message": "પાછા ફરો"
+   },
+   "btconvert": {
+      "message": "કન્વર્ટ"
+   },
+   "configuration": {
+      "message": "વિકલ્પો"
+   },
+   "dark": {
+      "message": "કાળો"
+   },
+   "helpnote": {
+      "message": "ચલણ ઉમેરવા માટે + દબાવો"
+   },
+   "light": {
+      "message": "સફેદ"
+   },
+   "openextension": {
+      "message": "એક્સટેન્શન સક્રિય કરો"
+   },
+   "selectcurrencies": {
+      "message": "કરન્સી પસંદ કરો"
+   },
+   "theme": {
+      "message": "ડિઝાઇન"
+   }
+}

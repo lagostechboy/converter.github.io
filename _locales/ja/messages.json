@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "量"
+   },
+   "appDesc": {
+      "message": "Google Chrome 用の通貨変換ツール"
+   },
+   "appName": {
+      "message": "通貨換算"
+   },
+   "back": {
+      "message": "バック"
+   },
+   "btconvert": {
+      "message": "変換する"
+   },
+   "configuration": {
+      "message": "オプション"
+   },
+   "dark": {
+      "message": "ダーク"
+   },
+   "helpnote": {
+      "message": "+を押して通貨を追加します"
+   },
+   "light": {
+      "message": "光"
+   },
+   "openextension": {
+      "message": "拡張機能を有効にする"
+   },
+   "selectcurrencies": {
+      "message": "通貨を選択してください"
+   },
+   "theme": {
+      "message": "テーマ"
+   }
+}

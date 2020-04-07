@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Summa"
+   },
+   "appDesc": {
+      "message": "Valūtas konvertētājs un valūtu kursi par Google Chrome."
+   },
+   "appName": {
+      "message": "Valūtas Konvertors PRO"
+   },
+   "back": {
+      "message": "Atpakaļ"
+   },
+   "btconvert": {
+      "message": "konvertēt"
+   },
+   "configuration": {
+      "message": "Opcijas"
+   },
+   "dark": {
+      "message": "Melns"
+   },
+   "helpnote": {
+      "message": "Nospiediet +, lai pievienotu valūtas"
+   },
+   "light": {
+      "message": "Balta"
+   },
+   "openextension": {
+      "message": "Aktivizēt paplašinājumu"
+   },
+   "selectcurrencies": {
+      "message": "Izvēlieties valūtas"
+   },
+   "theme": {
+      "message": "Dizains"
+   }
+}

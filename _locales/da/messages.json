@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Beløb"
+   },
+   "appDesc": {
+      "message": "Hurtig Valutaveksling! Valutaomregner til Google Chrome."
+   },
+   "appName": {
+      "message": "Valutaomregner - Currency converter PRO"
+   },
+   "back": {
+      "message": "Tilbage"
+   },
+   "btconvert": {
+      "message": "konvertere"
+   },
+   "configuration": {
+      "message": "Valgmuligheder"
+   },
+   "dark": {
+      "message": "Mørk"
+   },
+   "helpnote": {
+      "message": "Tryk på + for at tilføje valutaer"
+   },
+   "light": {
+      "message": "Lys"
+   },
+   "openextension": {
+      "message": "Aktivér udvidelsen"
+   },
+   "selectcurrencies": {
+      "message": "Vælg valutaer"
+   },
+   "theme": {
+      "message": "Tema"
+   }
+}

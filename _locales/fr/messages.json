@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Montant"
+   },
+   "appDesc": {
+      "message": "Convertisseur devises pour Google Chrome rapide et facile à utiliser."
+   },
+   "appName": {
+      "message": "Convertisseur de Monnaie PRO"
+   },
+   "back": {
+      "message": "Retour"
+   },
+   "btconvert": {
+      "message": "convertir"
+   },
+   "configuration": {
+      "message": "Configuration"
+   },
+   "dark": {
+      "message": "Sombre"
+   },
+   "helpnote": {
+      "message": "Appuyez sur + pour ajouter devises"
+   },
+   "light": {
+      "message": "Éclairer"
+   },
+   "openextension": {
+      "message": "Ouvrir l'extension"
+   },
+   "selectcurrencies": {
+      "message": "Sélectionnez les devises"
+   },
+   "theme": {
+      "message": "Thème"
+   }
+}

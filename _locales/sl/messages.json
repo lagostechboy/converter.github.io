@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Znesek"
+   },
+   "appDesc": {
+      "message": "Pretvornik valut za Google Chrome je hiter in enostaven za uporabo."
+   },
+   "appName": {
+      "message": "Pretvornik Valut PRO"
+   },
+   "back": {
+      "message": "Nazaj"
+   },
+   "btconvert": {
+      "message": "pretvorba"
+   },
+   "configuration": {
+      "message": "Možnosti"
+   },
+   "dark": {
+      "message": "Temno"
+   },
+   "helpnote": {
+      "message": "Pritisnite + za dodajanje valut"
+   },
+   "light": {
+      "message": "Bela"
+   },
+   "openextension": {
+      "message": "Aktivirajte razširitev"
+   },
+   "selectcurrencies": {
+      "message": "Izberite valute"
+   },
+   "theme": {
+      "message": "Oblikovanje"
+   }
+}

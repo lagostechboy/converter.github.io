@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "रकम"
+   },
+   "appDesc": {
+      "message": "मुद्रा परिवर्तक Google Chrome तेज़ और आसान"
+   },
+   "appName": {
+      "message": "मुद्रा परिवर्तक Currency converter PRO"
+   },
+   "back": {
+      "message": "वापस आ जाओ"
+   },
+   "btconvert": {
+      "message": "बदलने"
+   },
+   "configuration": {
+      "message": "विकल्प"
+   },
+   "dark": {
+      "message": "रात"
+   },
+   "helpnote": {
+      "message": "मुद्राओं को जोड़ने के लिए + दबाएँ"
+   },
+   "light": {
+      "message": "दिन"
+   },
+   "openextension": {
+      "message": "एक्सटेंशन सक्रिय करें"
+   },
+   "selectcurrencies": {
+      "message": "मुद्राओं का चयन करें"
+   },
+   "theme": {
+      "message": "डिज़ाइन"
+   }
+}

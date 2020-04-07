@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "পরিমাণ"
+   },
+   "appDesc": {
+      "message": "জন্য মুদ্রা রূপান্তরকারী Google Chrome সহজ এবং দ্রুত"
+   },
+   "appName": {
+      "message": "মুদ্রা রূপান্তরকারী"
+   },
+   "back": {
+      "message": "পিছনে"
+   },
+   "btconvert": {
+      "message": "রূপান্তর"
+   },
+   "configuration": {
+      "message": "কনফিগারেশন"
+   },
+   "dark": {
+      "message": "অন্ধকার"
+   },
+   "helpnote": {
+      "message": "মুদ্রা যোগ করতে + চাপুন"
+   },
+   "light": {
+      "message": "আলো"
+   },
+   "openextension": {
+      "message": "এক্সটেনশন সক্রিয় করুন"
+   },
+   "selectcurrencies": {
+      "message": "মুদ্রা নির্বাচন করুন"
+   },
+   "theme": {
+      "message": "নকশা"
+   }
+}

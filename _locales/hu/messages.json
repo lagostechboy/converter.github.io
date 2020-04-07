@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Összeg"
+   },
+   "appDesc": {
+      "message": "Valutaváltó a Google Chrome gyors és egyszerű"
+   },
+   "appName": {
+      "message": "Valutaváltó PRO"
+   },
+   "back": {
+      "message": "Visszatérés"
+   },
+   "btconvert": {
+      "message": "alakítani"
+   },
+   "configuration": {
+      "message": "Beállítások"
+   },
+   "dark": {
+      "message": "Sötét"
+   },
+   "helpnote": {
+      "message": "A pénznemek hozzáadásához nyomja meg a + gombot"
+   },
+   "light": {
+      "message": "Fény"
+   },
+   "openextension": {
+      "message": "Bővítmény aktiválása"
+   },
+   "selectcurrencies": {
+      "message": "Válassza ki a pénznemeket"
+   },
+   "theme": {
+      "message": "Tervezés"
+   }
+}

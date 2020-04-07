@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Ilość"
+   },
+   "appDesc": {
+      "message": "Przelicznik walut dla Google Chrome szybki i łatwy w użyciu."
+   },
+   "appName": {
+      "message": "Przelicznik walut PRO"
+   },
+   "back": {
+      "message": "Z powrotem"
+   },
+   "btconvert": {
+      "message": "konwertować"
+   },
+   "configuration": {
+      "message": "Opcje"
+   },
+   "dark": {
+      "message": "ciemny"
+   },
+   "helpnote": {
+      "message": "Naciśnij +, aby dodać waluty"
+   },
+   "light": {
+      "message": "światło"
+   },
+   "openextension": {
+      "message": "Aktywuj rozszerzenie"
+   },
+   "selectcurrencies": {
+      "message": "Wybierz waluty"
+   },
+   "theme": {
+      "message": "Motyw"
+   }
+}

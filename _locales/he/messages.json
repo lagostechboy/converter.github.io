@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Amount"
+   },
+   "appDesc": {
+      "message": "ממיר מטבע עבור Google Chrome מהיר וקל לשימוש."
+   },
+   "appName": {
+      "message": "המרת מטבע - Currency Converter PRO"
+   },
+   "back": {
+      "message": "Back"
+   },
+   "btconvert": {
+      "message": "convert"
+   },
+   "configuration": {
+      "message": "Configuration"
+   },
+   "dark": {
+      "message": "Dark"
+   },
+   "helpnote": {
+      "message": "Press + to add currencies"
+   },
+   "light": {
+      "message": "Light"
+   },
+   "openextension": {
+      "message": "Open extension"
+   },
+   "selectcurrencies": {
+      "message": "Select currencies"
+   },
+   "theme": {
+      "message": "Theme"
+   }
+}

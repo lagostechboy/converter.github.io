@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Import"
+   },
+   "appDesc": {
+      "message": "Convertidor de divises per a Google Chrome ràpid i fàcil d'utilitzar."
+   },
+   "appName": {
+      "message": "Conversor de monedes PRO"
+   },
+   "back": {
+      "message": "Tornar"
+   },
+   "btconvert": {
+      "message": "convertir"
+   },
+   "configuration": {
+      "message": "Opcions"
+   },
+   "dark": {
+      "message": "Fosc"
+   },
+   "helpnote": {
+      "message": "Premeu + per afegir monedes"
+   },
+   "light": {
+      "message": "Llum"
+   },
+   "openextension": {
+      "message": "Activa l'extensió"
+   },
+   "selectcurrencies": {
+      "message": "Seleccioneu les monedes"
+   },
+   "theme": {
+      "message": "Tema"
+   }
+}

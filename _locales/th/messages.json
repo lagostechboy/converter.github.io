@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "จำนวน"
+   },
+   "appDesc": {
+      "message": "โปรแกรมแปลงสกุลเงินสำหรับ Google Chrome ใช้งานง่ายและรวดเร็ว"
+   },
+   "appName": {
+      "message": "แปลงสกุลเงิน - Currency converter"
+   },
+   "back": {
+      "message": "กลับ"
+   },
+   "btconvert": {
+      "message": "แปลง"
+   },
+   "configuration": {
+      "message": "ตัวเลือก"
+   },
+   "dark": {
+      "message": "มืด"
+   },
+   "helpnote": {
+      "message": "กด + เพื่อเพิ่มสกุลเงิน"
+   },
+   "light": {
+      "message": "เบา"
+   },
+   "openextension": {
+      "message": "เปิดใช้งานส่วนขยาย"
+   },
+   "selectcurrencies": {
+      "message": "เลือกสกุลเงิน"
+   },
+   "theme": {
+      "message": "กระทู้"
+   }
+}

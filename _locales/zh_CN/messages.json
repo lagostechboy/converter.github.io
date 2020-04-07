@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "量"
+   },
+   "appDesc": {
+      "message": "Google Chrome™ 的货币转换器快速且易于使用。"
+   },
+   "appName": {
+      "message": "货币转换器 for Google Chrome™"
+   },
+   "back": {
+      "message": "返回"
+   },
+   "btconvert": {
+      "message": "兑换"
+   },
+   "configuration": {
+      "message": "选项"
+   },
+   "dark": {
+      "message": "黑"
+   },
+   "helpnote": {
+      "message": "按+添加货币"
+   },
+   "light": {
+      "message": "白"
+   },
+   "openextension": {
+      "message": "激活该扩展程序"
+   },
+   "selectcurrencies": {
+      "message": "选择货币"
+   },
+   "theme": {
+      "message": "设计"
+   }
+}

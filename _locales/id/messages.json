@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Jumlah"
+   },
+   "appDesc": {
+      "message": "Konverter mata uang untuk Google Chrome cepat dan mudah digunakan."
+   },
+   "appName": {
+      "message": "Konverter mata uang PRO"
+   },
+   "back": {
+      "message": "Kembali"
+   },
+   "btconvert": {
+      "message": "mengubah"
+   },
+   "configuration": {
+      "message": "Opsi"
+   },
+   "dark": {
+      "message": "Gelap"
+   },
+   "helpnote": {
+      "message": "Tekan + untuk menambahkan mata uang"
+   },
+   "light": {
+      "message": "Cahaya"
+   },
+   "openextension": {
+      "message": "Aktifkan ekstensi"
+   },
+   "selectcurrencies": {
+      "message": "Pilih mata uang"
+   },
+   "theme": {
+      "message": "Desain"
+   }
+}

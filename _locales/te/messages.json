@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "మొత్తం"
+   },
+   "appDesc": {
+      "message": "Google Chrome కోసం కరెన్సీ కన్వర్టర్ వేగవంతమైనది మరియు ఉపయోగించడానికి సులభమైనది."
+   },
+   "appName": {
+      "message": "కరెన్సీ కన్వర్టర్"
+   },
+   "back": {
+      "message": "తిరిగి"
+   },
+   "btconvert": {
+      "message": "మార్చేందుకు"
+   },
+   "configuration": {
+      "message": "ఎంపికలు"
+   },
+   "dark": {
+      "message": "బ్లాక్"
+   },
+   "helpnote": {
+      "message": "ప్రెస్ + కరెన్సీలను జోడించడానికి"
+   },
+   "light": {
+      "message": "తెలుపు"
+   },
+   "openextension": {
+      "message": " సక్రియం చేయండి"
+   },
+   "selectcurrencies": {
+      "message": "కరెన్సీలు ఎంచుకోండి"
+   },
+   "theme": {
+      "message": "రూపకల్పన"
+   }
+}

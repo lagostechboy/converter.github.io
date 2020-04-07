@@ -1,0 +1,39 @@
+{
+	  "appName": {
+      "message": "Valutakalkulator PRO"
+   },			
+   "appDesc": {
+      "message": "Valutakalkulator, valutaveksling eller valutakurser for Google Chrome."
+   },
+			"amount": {
+      "message": "Beløpet"
+   },
+			"btconvert": {
+      "message": "konvertere"
+   },
+			"selectcurrencies": {
+      "message": "Velg valutaer"
+   },
+			"helpnote": {
+      "message": "Trykk på + for å legge til valutaer"
+   },
+			"back": {
+      "message": "Tilbake"
+   },	
+			"configuration": {
+      "message": "Alternativer"
+   },	
+			"openextension": {
+      "message": "Åpne utvidelse"
+   },
+			"theme": {
+      "message": "Tema"
+   },
+		 "light": {
+      "message": "Lys"
+   },
+			"dark": {
+      "message": "Mørk"
+   }		
+}
+// jlozano developer Copyright (c) | jlozano.net/license - Version 1.7

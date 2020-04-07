@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Bedrag"
+   },
+   "appDesc": {
+      "message": "Valuta converter of wisselkoers calculator voor Google Chrome."
+   },
+   "appName": {
+      "message": "Valuta Omrekenen PRO"
+   },
+   "back": {
+      "message": "Terug"
+   },
+   "btconvert": {
+      "message": "converteren"
+   },
+   "configuration": {
+      "message": "Configuratie"
+   },
+   "dark": {
+      "message": "Donker"
+   },
+   "helpnote": {
+      "message": "Druk op + om valuta toe te voegen"
+   },
+   "light": {
+      "message": "Licht"
+   },
+   "openextension": {
+      "message": "Open de extensie"
+   },
+   "selectcurrencies": {
+      "message": "Selecteer valuta's"
+   },
+   "theme": {
+      "message": "Thema"
+   }
+}

@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Halaga"
+   },
+   "appDesc": {
+      "message": "Baguhin ang pera para sa Google Chrome. Easy Currency Converter!"
+   },
+   "appName": {
+      "message": "Converter ng Pera PRO"
+   },
+   "back": {
+      "message": "Bumalik"
+   },
+   "btconvert": {
+      "message": "convert"
+   },
+   "configuration": {
+      "message": "Mga Pagpipilian"
+   },
+   "dark": {
+      "message": "Madilim"
+   },
+   "helpnote": {
+      "message": "Pindutin + upang magdagdag ng mga pera"
+   },
+   "light": {
+      "message": "Liwanag"
+   },
+   "openextension": {
+      "message": "I-activate ang extension"
+   },
+   "selectcurrencies": {
+      "message": "Pumili ng mga pera"
+   },
+   "theme": {
+      "message": "Disenyo"
+   }
+}

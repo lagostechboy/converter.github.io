@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Čiastka"
+   },
+   "appDesc": {
+      "message": "Prevod mien pre prehliadač Google Chrome je rýchly a ľahko použiteľný."
+   },
+   "appName": {
+      "message": "Prevodník Mien PRO"
+   },
+   "back": {
+      "message": "Späť"
+   },
+   "btconvert": {
+      "message": "premeniť"
+   },
+   "configuration": {
+      "message": "Možnosti"
+   },
+   "dark": {
+      "message": "Tmavý"
+   },
+   "helpnote": {
+      "message": "Stlačením + pridáte meny"
+   },
+   "light": {
+      "message": "Svetlo"
+   },
+   "openextension": {
+      "message": "Aktivovať rozšírenie"
+   },
+   "selectcurrencies": {
+      "message": "Vyberte meny"
+   },
+   "theme": {
+      "message": "Téma"
+   }
+}

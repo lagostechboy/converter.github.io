@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Cantitate"
+   },
+   "appDesc": {
+      "message": "Convertor valutar pentru Google Chrome rapid și ușor de utilizat."
+   },
+   "appName": {
+      "message": "Convertor Valutar PRO"
+   },
+   "back": {
+      "message": "întoarcere"
+   },
+   "btconvert": {
+      "message": "convertit"
+   },
+   "configuration": {
+      "message": "Opțiuni"
+   },
+   "dark": {
+      "message": "Întuneric"
+   },
+   "helpnote": {
+      "message": "Apăsați + pentru a adăuga valute"
+   },
+   "light": {
+      "message": "Alb"
+   },
+   "openextension": {
+      "message": "Activați extensia"
+   },
+   "selectcurrencies": {
+      "message": "Selectați valută"
+   },
+   "theme": {
+      "message": "Proiecta"
+   }
+}

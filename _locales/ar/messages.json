@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Amount"
+   },
+   "appDesc": {
+      "message": "™for Google Chrome تحويل العملات"
+   },
+   "appName": {
+      "message": "محول العملات"
+   },
+   "back": {
+      "message": "Back"
+   },
+   "btconvert": {
+      "message": "convert"
+   },
+   "configuration": {
+      "message": "Configuration"
+   },
+   "dark": {
+      "message": "Dark"
+   },
+   "helpnote": {
+      "message": "Press + to add currencies"
+   },
+   "light": {
+      "message": "Light"
+   },
+   "openextension": {
+      "message": "Open extension"
+   },
+   "selectcurrencies": {
+      "message": "Select currencies"
+   },
+   "theme": {
+      "message": "Theme"
+   }
+}

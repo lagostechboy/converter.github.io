@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Amount"
+   },
+   "appDesc": {
+      "message": "Google Chrome க்கான நாணய மாற்று வேகமாகவும் பயன்படுத்த எளிதாகவும் உள்ளது."
+   },
+   "appName": {
+      "message": "நாணய மாற்றி PRO"
+   },
+   "back": {
+      "message": "Back"
+   },
+   "btconvert": {
+      "message": "convert"
+   },
+   "configuration": {
+      "message": "Configuration"
+   },
+   "dark": {
+      "message": "Dark"
+   },
+   "helpnote": {
+      "message": "Press + to add currencies"
+   },
+   "light": {
+      "message": "Light"
+   },
+   "openextension": {
+      "message": "Open extension"
+   },
+   "selectcurrencies": {
+      "message": "Select currencies"
+   },
+   "theme": {
+      "message": "Theme"
+   }
+}

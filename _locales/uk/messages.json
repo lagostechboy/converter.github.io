@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "суму"
+   },
+   "appDesc": {
+      "message": "Конвертор валют для Google Chrome швидкий і простий у використанні."
+   },
+   "appName": {
+      "message": "Конвертер валют PRO"
+   },
+   "back": {
+      "message": "Повернення"
+   },
+   "btconvert": {
+      "message": "конвертувати"
+   },
+   "configuration": {
+      "message": "Параметри"
+   },
+   "dark": {
+      "message": "Чорний"
+   },
+   "helpnote": {
+      "message": "Натисніть +, щоб додати валюту"
+   },
+   "light": {
+      "message": "Білий"
+   },
+   "openextension": {
+      "message": "Активувати розширення"
+   },
+   "selectcurrencies": {
+      "message": "Виберіть валюту"
+   },
+   "theme": {
+      "message": "Дизайн"
+   }
+}

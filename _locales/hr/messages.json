@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Iznos"
+   },
+   "appDesc": {
+      "message": "Konvertor valuta za Google Chrome brz i jednostavan za korištenje."
+   },
+   "appName": {
+      "message": "Pretvarač Valuta PRO"
+   },
+   "back": {
+      "message": "Povratak"
+   },
+   "btconvert": {
+      "message": "pretvoriti"
+   },
+   "configuration": {
+      "message": "Opcije"
+   },
+   "dark": {
+      "message": "Mrak"
+   },
+   "helpnote": {
+      "message": "Pritisnite + za dodavanje valuta"
+   },
+   "light": {
+      "message": "Svjetlo"
+   },
+   "openextension": {
+      "message": "Aktiviranje proširenja"
+   },
+   "selectcurrencies": {
+      "message": "Odaberite valute"
+   },
+   "theme": {
+      "message": "Dizajn"
+   }
+}

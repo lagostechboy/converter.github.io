@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Jumlah"
+   },
+   "appDesc": {
+      "message": "Pengubah mata wang untuk Google Chrome cepat dan mudah digunakan."
+   },
+   "appName": {
+      "message": "Penukar mata wang PRO"
+   },
+   "back": {
+      "message": "Kembali"
+   },
+   "btconvert": {
+      "message": "menukar"
+   },
+   "configuration": {
+      "message": "Pilihan"
+   },
+   "dark": {
+      "message": "Gelap"
+   },
+   "helpnote": {
+      "message": "Tekan + untuk menambah mata wang"
+   },
+   "light": {
+      "message": "Putih"
+   },
+   "openextension": {
+      "message": "Aktifkan sambungan"
+   },
+   "selectcurrencies": {
+      "message": "Pilih mata wang"
+   },
+   "theme": {
+      "message": "Reka bentuk"
+   }
+}

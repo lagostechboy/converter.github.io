@@ -1,0 +1,41 @@
+{
+   "author": "Codemynter",
+   "browser_action": {
+      "default_icon": {
+         "19": "assets/icons/19.png",
+         "38": "assets/icons/38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "All Currency Converter"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "chromeos": "Alt+G",
+            "default": "Alt+G",
+            "linux": "Alt+G",
+            "mac": "Alt+G",
+            "windows": "Alt+G"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "This App is a Very useful tool for Currencies Conversion and it supports Other Languages",
+   "icons": {
+      "128": "assets/icons/128.png",
+      "19": "assets/icons/19.png",
+      "32": "assets/icons/32.png",
+      "38": "assets/icons/38.png",
+      "48": "assets/icons/48.png",
+      "64": "assets/icons/64.png"
+   },
+  "manifest_version": 2,
+   "name": "All Currency Converter",
+   "offline_enabled": true,
+   "options_ui": {
+      "page": "options.html"
+   },
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

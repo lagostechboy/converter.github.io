@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "양"
+   },
+   "appDesc": {
+      "message": "Chrome 용 통화 변환기를 빠르고 쉽게 사용할 수 있습니다."
+   },
+   "appName": {
+      "message": "환율 계산기 Currency Converter"
+   },
+   "back": {
+      "message": "뒤로"
+   },
+   "btconvert": {
+      "message": "변하게 하다"
+   },
+   "configuration": {
+      "message": "옵션들"
+   },
+   "dark": {
+      "message": "어두운"
+   },
+   "helpnote": {
+      "message": "통화를 추가하려면 +를 누르십시오."
+   },
+   "light": {
+      "message": "빛"
+   },
+   "openextension": {
+      "message": "확장 프로그램 활성화"
+   },
+   "selectcurrencies": {
+      "message": "통화 선택"
+   },
+   "theme": {
+      "message": "테마"
+   }
+}

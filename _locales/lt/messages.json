@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Suma"
+   },
+   "appDesc": {
+      "message": "Valiutos konvertavimas už Google Chrome greitai ir lengvai naudojamas."
+   },
+   "appName": {
+      "message": "Valiutos Konverteris PRO"
+   },
+   "back": {
+      "message": "Grįžti"
+   },
+   "btconvert": {
+      "message": "Konvertuoti"
+   },
+   "configuration": {
+      "message": "Parinktys"
+   },
+   "dark": {
+      "message": "Tamsus"
+   },
+   "helpnote": {
+      "message": "Jei norite pridėti valiutų, paspauskite +"
+   },
+   "light": {
+      "message": "Šviesa"
+   },
+   "openextension": {
+      "message": "Aktyvinti plėtinį"
+   },
+   "selectcurrencies": {
+      "message": "Pasirinkite valiutas"
+   },
+   "theme": {
+      "message": "Dizainas"
+   }
+}

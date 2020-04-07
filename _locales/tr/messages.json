@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Miktar"
+   },
+   "appDesc": {
+      "message": "Güncel Döviz Kurları! Google Chrome için para dönüştürücü hızlı ve kolay"
+   },
+   "appName": {
+      "message": "Döviz Çevirici - Currency Converter PRO"
+   },
+   "back": {
+      "message": "Dönüş"
+   },
+   "btconvert": {
+      "message": "dönüştürmek"
+   },
+   "configuration": {
+      "message": "Seçenekler"
+   },
+   "dark": {
+      "message": "karanlık"
+   },
+   "helpnote": {
+      "message": "Para eklemek için +"
+   },
+   "light": {
+      "message": "ışık"
+   },
+   "openextension": {
+      "message": "Uzantıyı etkinleştir"
+   },
+   "selectcurrencies": {
+      "message": "Para birimlerini seçin"
+   },
+   "theme": {
+      "message": "Tema"
+   }
+}

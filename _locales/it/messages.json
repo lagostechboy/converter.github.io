@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Importo"
+   },
+   "appDesc": {
+      "message": "Convertitore valuta o cambio valuta per Google Chrome facile da usare."
+   },
+   "appName": {
+      "message": "Convertitore di Valuta PRO"
+   },
+   "back": {
+      "message": "Ritorno"
+   },
+   "btconvert": {
+      "message": "convertire"
+   },
+   "configuration": {
+      "message": "Configurazione"
+   },
+   "dark": {
+      "message": "Scuro"
+   },
+   "helpnote": {
+      "message": "Premi + per aggiungere valute"
+   },
+   "light": {
+      "message": "Luminoso"
+   },
+   "openextension": {
+      "message": "Estensione aperta"
+   },
+   "selectcurrencies": {
+      "message": "Seleziona le valute"
+   },
+   "theme": {
+      "message": "Tema"
+   }
+}

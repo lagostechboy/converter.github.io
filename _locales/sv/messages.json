@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "Belopp"
+   },
+   "appDesc": {
+      "message": "Valutaomvandlare och valutakurser för Google Chrome."
+   },
+   "appName": {
+      "message": "Valutaomvandlare - Currency Converter PRO"
+   },
+   "back": {
+      "message": "Tillbaka"
+   },
+   "btconvert": {
+      "message": "konvertera"
+   },
+   "configuration": {
+      "message": "Alternativ"
+   },
+   "dark": {
+      "message": "Mörk"
+   },
+   "helpnote": {
+      "message": "Tryck på + för att lägga till valutor"
+   },
+   "light": {
+      "message": "Ljus"
+   },
+   "openextension": {
+      "message": "Aktivera tillägget"
+   },
+   "selectcurrencies": {
+      "message": "Välj valutor"
+   },
+   "theme": {
+      "message": "Tema"
+   }
+}

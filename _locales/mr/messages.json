@@ -1,0 +1,38 @@
+{
+   "amount": {
+      "message": "रक्कम"
+   },
+   "appDesc": {
+      "message": "साठी चलन परिवर्तक Google Chrome जलद आणि वापरण्यास सोपा"
+   },
+   "appName": {
+      "message": "चलन परिवर्तक"
+   },
+   "back": {
+      "message": "परत ये"
+   },
+   "btconvert": {
+      "message": "रूपांतरित करा"
+   },
+   "configuration": {
+      "message": "पर्याय"
+   },
+   "dark": {
+      "message": "काळा"
+   },
+   "helpnote": {
+      "message": "चलन जोडण्यासाठी + दाबा"
+   },
+   "light": {
+      "message": "पांढरा"
+   },
+   "openextension": {
+      "message": "एक्स्टेंशन सुरू करा"
+   },
+   "selectcurrencies": {
+      "message": "चलन निवडा"
+   },
+   "theme": {
+      "message": "डिझाइन"
+   }
+}
